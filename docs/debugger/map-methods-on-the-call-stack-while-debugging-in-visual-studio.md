@@ -39,6 +39,8 @@ Create a code map to visually trace the call stack while you're debugging. You c
   
 -   [Visual Studio Enterprise](https://www.visualstudio.com/downloads/download-visual-studio-vs)  
   
+-   Code Maps installed, see Visual Studio installer -> Individual components tab -> Code tools -> Code Map
+  
 -   Code that you can debug, such as Visual C#, Visual Basic, C++, JavaScript, or X++  
 
 Here's a quick look at a code map:
